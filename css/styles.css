@@ -64,6 +64,9 @@ body {
       margin-bottom: 12px;
       cursor: pointer;
     }
+    p {
+      color: var(--gray500);
+    }
     h1:hover {
       color: var(--yellow);
     }
