@@ -62,6 +62,10 @@ body {
     h1 {
       font-size: 1.5rem;
       margin-bottom: 12px;
+      cursor: pointer;
+    }
+    h1:hover {
+      color: var(--yellow);
     }
   }
   .card__author {

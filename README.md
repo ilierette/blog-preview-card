@@ -20,7 +20,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - [Solution URL]()
-- [Live Site URL](https://blog-preview-card-7ruvr1uzd-ilierettes-projects.vercel.app/)
+- [Live Site URL](https://blog-preview-card-zeta-mocha.vercel.app/)
 
 ## My process
 
