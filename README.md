@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-with-multiple-tags-S8bVy-GB4A)
 - [Live Site URL](https://blog-preview-card-zeta-mocha.vercel.app/)
 
 ## My process
